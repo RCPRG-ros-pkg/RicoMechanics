@@ -1,0 +1,3 @@
+Intel RealSense D435i two-module mounting project:
+- Autodesk Fusion360 project file
+- two .STL files with mounting components
